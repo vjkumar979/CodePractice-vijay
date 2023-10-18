@@ -1,1 +1,1 @@
-# CodePractice-vijay
+# CodePractice
